@@ -78,7 +78,7 @@ s.ios.deployment_target = "7.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :git => "https://github.com/xialun/SCDatabase.git", :tag => s.version }
+s.source       = { :git => "https://github.com/xialun/WSCustomeFMDB.git", :tag => s.version }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -89,7 +89,7 @@ s.source       = { :git => "https://github.com/xialun/SCDatabase.git", :tag => s
 #  Not including the public_header_files will make all headers public.
 #
 
-s.source_files  = "SCDatabase/*"
+s.source_files  = "classses/*"
 # s.exclude_files = "JQFMDB/JQFMDB/JQFMDB/Exclude"
 
 # s.public_header_files = "Classes/**/*.h"
